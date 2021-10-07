@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    perspective: 500px ;
+    perspective: 100px;
 }
 
 .item {
@@ -23,5 +23,5 @@
      /* transform: rotateY(50deg); */
      /* transform: scale(0.1); */
      /* transform: skew(50deg,50deg)  */
-    transform: translateZ(100px);
+    transform: translate3d(20px,20px,20px);
 }
