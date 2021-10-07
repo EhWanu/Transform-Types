@@ -19,5 +19,5 @@
 
 .item:hover {
      /* transform: translate(50px,50px); */
-     transform: rotateX(50deg);
+     transform: rotate(50deg);
 }
