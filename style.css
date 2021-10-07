@@ -16,3 +16,7 @@
     background-color: yellow;
     transition: all 1s ease;
 }
+
+.item:hover {
+    transform: translateX(50px);
+}
