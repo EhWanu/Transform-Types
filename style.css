@@ -18,5 +18,5 @@
 }
 
 .item:hover {
-    transform: translateY(-50px);
+    transform: translateY(50px);
 }
