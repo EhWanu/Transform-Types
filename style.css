@@ -20,5 +20,6 @@
 .item:hover {
      /* transform: translate(50px,50px); */
      /* transform: rotateY(50deg); */
-     transform: scale(0.1);
+     /* transform: scale(0.1); */
+     transform: skewY(50deg) 
 }
